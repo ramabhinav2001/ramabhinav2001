@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Abhinav Vedant Madabushi</h1>
 <h3 align="center">Software Developer and Computer Science Master’s student specializing in AI-driven applications, cloud-native systems, and full-stack development with strong expertise in modern frameworks and scalable architectures.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabhinav2001&label=Profile%20views&color=0e75b6&style=flat" alt="ramabhinav2001" /> </p>
-
 - 🔭 I’m currently working on [FoodSupply.ai](foodsupply.ai)
 
 - 🌱 I’m currently learning **Advanced AI Systems, Cloud Infrastructure (AWS, Kubernetes), Modern Frameworks (Next.js, Angular, Flutter), and Application Development with C#, .NET, and Android.**
