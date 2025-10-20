@@ -122,7 +122,7 @@
 <h4>🗣️ NLP / LLM Frameworks</h4>
 <p align="left">
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://spacy.io/" target="_blank"><img src="https://spacy.io/static/favicon.svg" alt="spaCy" width="40" height="40"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spaCy" width="40" height="40"/></a>
   <a href="https://langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
   <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI API" width="40" height="40"/></a>
 </p>
