@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to work on **AI, RAG and LLM based projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramabhinav2001](https://github.com/ramabhinav2001)
+- 👨‍💻 All of my projects are available at https://github.com/ramabhinav2001?tab=repositories
 
 - 💬 Ask me about **React, Next.js, JS/TS,DOM, Python**
 
