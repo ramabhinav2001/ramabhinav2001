@@ -169,7 +169,3 @@
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramabhinav2001&show_icons=true&locale=en&layout=compact" alt="ramabhinav2001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramabhinav2001&show_icons=true&locale=en" alt="ramabhinav2001" /></p>
