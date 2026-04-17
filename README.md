@@ -12,7 +12,7 @@
 - 💬 Ask me about **React, Next.js, JS/TS,DOM, Python**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex;>
 <a href="https://linkedin.com/in/ram-abhinav-vedant-madabushi-5a6bb0252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram-abhinav-vedant-madabushi-5a6bb0242" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ramabhinav2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ramabhinav2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramabhinav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramabhinav26" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 <!-- 🧾 PROGRAMMING LANGUAGES -->
 <!-- ======================== -->
 <h4>🧾 Programming Languages</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
@@ -42,7 +42,7 @@
 <!-- 🎨 FRONTEND STACK -->
 <!-- ==================== -->
 <h4>🎨 Frontend Development</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
@@ -60,7 +60,7 @@
 <!-- ⚙️ BACKEND STACK -->
 <!-- =================== -->
 <h4>⚙️ Backend Development</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
@@ -75,7 +75,7 @@
 <!-- 🗄️ DATABASES -->
 <!-- =================== -->
 <h4>🗄️ Databases</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
@@ -89,7 +89,7 @@
 <!-- ☁️ DEVOPS / CLOUD / INFRA -->
 <!-- ========================= -->
 <h4>☁️ DevOps, Cloud & Infrastructure</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
@@ -106,7 +106,7 @@
 <!-- 🧠 AI / ML / DATA SCIENCE -->
 <!-- ============================== -->
 <h4>🧠 Artificial Intelligence / Machine Learning / Data Science</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
@@ -121,7 +121,7 @@
 <!-- 🗣️ NLP / LLM FRAMEWORKS -->
 <!-- ============================== -->
 <h4>🗣️ NLP / LLM Frameworks</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://spacy.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spaCy" width="40" height="40"/></a>
   <a href="https://langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
@@ -133,7 +133,7 @@
 <!-- 📱 MOBILE APP DEVELOPMENT -->
 <!-- ============================= -->
 <h4>📱 Mobile App Development</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
@@ -144,7 +144,7 @@
 <!-- 📊 DATA VISUALIZATION -->
 <!-- =========================== -->
 <h4>📊 Data Visualization</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
   <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
@@ -155,7 +155,7 @@
 <!-- 🎨 DESIGN / UI TOOLS -->
 <!-- ===================== -->
 <h4>🎨 Design / UI / Prototyping Tools</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
@@ -166,6 +166,6 @@
 <!-- ⚡ EMBEDDED & HARDWARE -->
 <!-- ======================== -->
 <h4>⚡ Embedded Systems & Hardware</h4>
-<p align="left">
+<p align="left" style="display:flex;>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
 </p>
